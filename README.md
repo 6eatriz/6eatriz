@@ -14,7 +14,7 @@ const Beatriz = {
         languages: ['Portuguese', 'English'],
     },
     technical: {
-        code: ['JavaScript', 'HTML', 'CSS']
+        code: ['JavaScript', 'HTML', 'CSS'],
     },
 }
 ```
