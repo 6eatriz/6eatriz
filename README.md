@@ -22,7 +22,8 @@ const Beatriz = {
         pronouns: 'she' | 'her',
         birthDate: '2002-08-16',
         interests: ['games', 'anime', 'manga', 'tech'],
-        languages: ['Portuguese', 'English'],
+        languages: ['portuguese', 'english'],
+        education: ['btech in system analysis and development'],
     },
     technical: {
         code: ['JavaScript', 'HTML', 'CSS'],
