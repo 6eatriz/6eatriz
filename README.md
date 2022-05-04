@@ -21,4 +21,4 @@ const Beatriz = {
 
 ![6eatriz github stats](https://github-readme-stats.vercel.app/api?username=6eatriz&bg_color=EFDBB6&show_icons=true&hide_border=true&line_height=25&title_color=C5915D&text_color=332011&icon_color=633C15&hide=stars,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6eatriz&layout=compact&bg_color=EFDBB6&show_icons=true&hide_border=true&line_height=25&title_color=C5915D&text_color=332011&icon_color=633C15)# 6eatriz
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6eatriz&layout=compact&bg_color=EFDBB6&show_icons=true&hide_border=true&line_height=25&title_color=C5915D&text_color=332011&icon_color=633C15)
